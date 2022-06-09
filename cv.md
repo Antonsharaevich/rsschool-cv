@@ -1,4 +1,5 @@
 # Anton Sharaevich
+![image](https://avatars.githubusercontent.com/u/102992131?v=4)
 
 # Contacts for communication
 * Phone: +375447877348

@@ -1,5 +1,5 @@
 # Anton Sharaevich
-!(https://avatars.githubusercontent.com/u/102992131?v=4)
+![This is an image](https://avatars.githubusercontent.com/u/102992131?v=4)
 
 ## Contacts for communication
 - Belarus, Minsk
